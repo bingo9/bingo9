@@ -108,7 +108,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bingo9&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/bingo9/github-readme-stats"><img alt="Jareds's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bingo9&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bingo9&show_icons=true&locale=en&layout=compact&theme=algolia" alt="bingo9" height="192px"/>
@@ -121,7 +121,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/bingo9"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bingo9&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/bingo9"><img alt="Jareds's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bingo9&custom_title=Jared's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
