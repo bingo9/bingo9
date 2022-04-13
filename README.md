@@ -23,6 +23,14 @@
   &emsp;
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" </a>
   &emsp;
+    <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" </a>
+  &emsp;
+    <a href="#"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" </a>
+  &emsp;
+    <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" </a>
+  &emsp;
+    <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" </a>
+  &emsp;
   
 </p>
 
@@ -129,15 +137,7 @@
 <br/>
 <p>
 
-  &emsp;
-    <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" </a>
-  &emsp;
-    <a href="#"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" </a>
-  &emsp;
-    <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" </a>
-  &emsp;
-    <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" </a>
-	    &emsp;
+
 </p>
 
 
