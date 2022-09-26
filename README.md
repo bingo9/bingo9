@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Economics+Student;Software+Developer;Entrepreneur"></a>
 </p>
 <hr/>
-<h4 align="center">I am a sophmore at Western University pursuing BSc. double major in Computer Science and Economics. I like to Snowboard, Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a 3rd year at Western University pursuing BSc. double major in Computer Science and Economics. I like to Snowboard, Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bingo9" alt="bingo9" /> </p>
 
