@@ -1,206 +1,125 @@
-<h1 align="center">Hi , I'm Jared <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Jared <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"></h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Economics+Student;Software+Developer;Entrepreneur"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Applied+AI+Engineer;Full-Stack+Software+Architect;Former+Technical+Founder" alt="Typing SVG">
+  </a>
 </p>
-<hr/>
-<h4 align="center">I am a 3rd year at Western University pursuing BSc. double major in Computer Science and Economics. I like to Snowboard, Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+
+---
+
+<h4 align="center">I am an Applied AI Engineer and Full-Stack Architect. I specialize in bridging the gap between stochastic LLM behaviors and deterministic enterprise requirements using modern agent frameworks (PydanticAI, Agno, MCP), robust MLOps, and scalable infrastructure. Whether I am orchestrating multi-agent systems, deploying high-volume inference pipelines, or building standalone edge AI, I thrive on tackling complex engineering challenges.</h4>
+
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bingo9" alt="bingo9" /> </p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=bingo9" alt="Profile Views" /> 
+</p>
+
+
+## 🎓 Education
+
+*   **Honours BSc. – Double Major in Computer Science & Economics** | *Western University* (Dean’s Honour List)
+    * *Completed full-time while employed as a full-time AI Developer.*
+*   **Mechanical Engineering Technology – Robotics and Automation (Co-op)** | *Conestoga College* (Graduated with Distinction)
+
+## 🏂 Beyond the Screen
+
+When I'm not designing distributed systems or optimizing LLM pipelines, I enjoy:
+*   **Snowboarding:** Chasing fresh powder whenever the season allows.
+*   **Self-Hosting & Homelabs:** Tinkering with Docker containers, automating personal finance tracking (via Actual Budget), and running open-source tools locally for data privacy.
+*   **Innovating:** Constantly brainstorming and prototyping the intersection of hardware and AI. 
+
+## 🏆 Featured Projects & Awards
+
+*   **EclipseDFS:** Built a Python-based peer-to-peer file storage system using Kademlia DHT, consistent hashing, and gRPC, focusing on distributed consensus and data availability.
+*   **Freshcipes:** Developed a real-time, full-stack food tracking app on Raspberry Pi with a C++ Wt backend/frontend, integrating the Spoonacular API and SQLite.
+*   **Awards:** *Aurora Full Stack Award (Nokia)* for LLM evaluation platform innovation; *3rd Place @ Hack the North* (CANSOFCOMS Challenge); *2nd Place @ EnactusHacks 2.0*.
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bingo9&theme=algolia" alt="bingo9"  /></p>
 
+<p align="center">
+  <a href="https://github.com/bingo9">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bingo9&theme=algolia" alt="GitHub Streak" />
+  </a>
+</p>
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
-
+### 👉 Programming Languages
 <p align="left"> 
-  &emsp;
-    <a href="#"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" </a>
-  &emsp;
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" </a>
-  &emsp;
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" </a>
-  &emsp;
-    <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" </a>
-  &emsp;
-    <a href="#"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" </a>
-  &emsp;
-    <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" </a>
-  &emsp;
-    <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" </a>
-  &emsp;
-  
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 </p>
 
-### 👉 Frontend Development
+### 👉 AI, LLMs & ML Tools
 <p align="left"> 
-  &emsp;
-    <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" </a>
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  </a>
+  <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+  <a href="#"><img alt="vLLM" src="https://img.shields.io/badge/vLLM-02569B?style=for-the-badge" /></a>
+  <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=Ollama&logoColor=black" /></a>
+  <a href="#"><img alt="MLFlow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" /></a>
+  <a href="#"><img alt="PydanticAI" src="https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge" /></a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 👉 Backend & APIs
 <p align="left">
-  &emsp;
-    <a href="https://www.microsoft.com/"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.postgresql.org/"><img alt="PosgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" </a>
-  &emsp;
-    <a href="#"><img alt="Microsoft Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" </a>
-  &emsp;    
+  <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+  <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
+  <a href="#"><img alt="gRPC" src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" /></a>
+  <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
 </p>
 
-  
-### 👉Graphic Designing
+### 👉 DevOps, Cloud & Infrastructure
 <p align="left">
-  &emsp;
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-  </a> 
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  </a>
-  &emsp;
-   <a href="https://www.gimp.org" target="_blank"> 
-    <img alt="Gimp Gnu Image Manipulation Program" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"
-   </a>
- </p>
-
- ### 👉 Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" </a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" </a>
-  &emsp;
-    <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"       </a>
-  &emsp;
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" </a>
-  &emsp;
-    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" </a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" </a>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="BitBucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="VIM" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"></a>
-  &emsp;
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="CMake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
-  &emsp;		   
-    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
-  &emsp;	    
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white  "></a>
-  &emsp;	    
-    <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"></a>
-  &emsp;
-    <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
-  &emsp;	       
+  <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  <a href="#"><img alt="GitLab CI" src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 </p>
 
-
-### 👉 Frameworks
-<p>
-  &emsp;
-    <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
-  &emsp;
-    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="ROS" src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-  &emsp;
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Sci-kit Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Gunicorn" src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white"></a>
-  &emsp;
-</p>
-      	    
-	    
-	    
-### 👉 Industrial Automation
-<p>
-
+### 👉 Databases
+<p align="left">
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="#"><img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-E21727?style=for-the-badge" /></a>
+  <a href="#"><img alt="MinIO" src="https://img.shields.io/badge/MinIO-C7202C?style=for-the-badge&logo=minio&logoColor=white" /></a>
 </p>
 
-<br/>
-<p>
-
-
-</p>
-
-
-	
 ## 📊 Github Stats (Expand to View) 
-
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/bingo9/github-readme-stats"><img alt="Jareds's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bingo9&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bingo9&show_icons=true&locale=en&layout=compact&theme=algolia" alt="bingo9" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    <a href="https://github.com/bingo9/github-readme-stats">
+      <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=bingo9&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    </a>
+    <br/>
+    <br/>
+    <a href="https://github.com/bingo9/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bingo9&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" height="192px"/>
+    </a>
+    <br/>
+    <br/>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
-
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/bingo9"><img alt="Jareds's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bingo9&custom_title=Jared's%20Contribution%20Graph&theme=react-dark" /></a>
+  <p align="center">
+    <a href="https://github.com/bingo9">
+      <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bingo9&custom_title=Contribution%20Graph&theme=react-dark" />
+    </a>
+  </p>
   <br/>
-
 </details>
 
-<hr/>
-
+---
