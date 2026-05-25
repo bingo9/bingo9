@@ -19,9 +19,8 @@
 
 ## 🎓 Education
 
-*   **Honours BSc. – Double Major in Computer Science & Economics** | *Western University* (Dean’s Honour List)
-    * *Completed full-time while employed as a full-time AI Developer.*
-*   **Mechanical Engineering Technology – Robotics and Automation (Co-op)** | *Conestoga College* (Graduated with Distinction)
+*   **Honours BSc. – Double Major in Computer Science & Economics**
+*   **Mechanical Engineering Technology – Robotics and Automation**
 
 ## 🏂 Beyond the Screen
 
